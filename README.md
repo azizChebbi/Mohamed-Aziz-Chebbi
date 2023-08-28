@@ -17,7 +17,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `internship` and `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1T1NbgDciVHNzdHHHBvdomnTgFs5QMSjI/view?usp=sharing).
+- :thinking: I’m currently open for a new `internship` and `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1deR5JBztVW-44-i1bWj7_Hn30yRoU8S-/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://med-aziz-chebbi.web.app/).
 <br>
 
